@@ -1,0 +1,16 @@
+C:\Users\brand\Documents\HouseSaversConsoleApplication\HouseSaversConsoleApplication\bin\Debug\net5.0\HouseSaversConsoleApplication.exe
+C:\Users\brand\Documents\HouseSaversConsoleApplication\HouseSaversConsoleApplication\bin\Debug\net5.0\HouseSaversConsoleApplication.deps.json
+C:\Users\brand\Documents\HouseSaversConsoleApplication\HouseSaversConsoleApplication\bin\Debug\net5.0\HouseSaversConsoleApplication.runtimeconfig.json
+C:\Users\brand\Documents\HouseSaversConsoleApplication\HouseSaversConsoleApplication\bin\Debug\net5.0\HouseSaversConsoleApplication.runtimeconfig.dev.json
+C:\Users\brand\Documents\HouseSaversConsoleApplication\HouseSaversConsoleApplication\bin\Debug\net5.0\HouseSaversConsoleApplication.dll
+C:\Users\brand\Documents\HouseSaversConsoleApplication\HouseSaversConsoleApplication\bin\Debug\net5.0\ref\HouseSaversConsoleApplication.dll
+C:\Users\brand\Documents\HouseSaversConsoleApplication\HouseSaversConsoleApplication\bin\Debug\net5.0\HouseSaversConsoleApplication.pdb
+C:\Users\brand\Documents\HouseSaversConsoleApplication\HouseSaversConsoleApplication\obj\Debug\net5.0\HouseSaversConsoleApplication.csprojAssemblyReference.cache
+C:\Users\brand\Documents\HouseSaversConsoleApplication\HouseSaversConsoleApplication\obj\Debug\net5.0\HouseSaversConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brand\Documents\HouseSaversConsoleApplication\HouseSaversConsoleApplication\obj\Debug\net5.0\HouseSaversConsoleApplication.AssemblyInfoInputs.cache
+C:\Users\brand\Documents\HouseSaversConsoleApplication\HouseSaversConsoleApplication\obj\Debug\net5.0\HouseSaversConsoleApplication.AssemblyInfo.cs
+C:\Users\brand\Documents\HouseSaversConsoleApplication\HouseSaversConsoleApplication\obj\Debug\net5.0\HouseSaversConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\brand\Documents\HouseSaversConsoleApplication\HouseSaversConsoleApplication\obj\Debug\net5.0\HouseSaversConsoleApplication.dll
+C:\Users\brand\Documents\HouseSaversConsoleApplication\HouseSaversConsoleApplication\obj\Debug\net5.0\ref\HouseSaversConsoleApplication.dll
+C:\Users\brand\Documents\HouseSaversConsoleApplication\HouseSaversConsoleApplication\obj\Debug\net5.0\HouseSaversConsoleApplication.pdb
+C:\Users\brand\Documents\HouseSaversConsoleApplication\HouseSaversConsoleApplication\obj\Debug\net5.0\HouseSaversConsoleApplication.genruntimeconfig.cache
